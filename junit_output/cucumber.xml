@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="3">
+<testcase classname="Test Tagged Hooks" name="This is First Scenario" time="0">
+<system-out><![CDATA[Given this is the first step........................................................skipped
+When this is the second step........................................................skipped
+Then this is the third step.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Second Scenario" time="0">
+<system-out><![CDATA[Given this is the first step........................................................skipped
+When this is the second step........................................................skipped
+Then this is the third step.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Third Scenario" time="0">
+<system-out><![CDATA[Given this is the first step........................................................skipped
+When this is the second step........................................................skipped
+Then this is the third step.........................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
